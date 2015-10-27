@@ -5,3 +5,5 @@
 "use strict";
 
 debugger;
+// append like this
+// html = Mustache.to_html(writingPageTemplate, writingPageConfig.newsweek)
